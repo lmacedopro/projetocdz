@@ -1,0 +1,167 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+html, body {
+    height: 100%;
+    background: none;
+    text-align: center;
+    /*overflow-y: hidden;
+    overflow-x: hidden;*/
+}
+
+.fill { 
+    min-height: 100%;
+}
+
+.header{
+    padding-top: 1.5em;
+    padding-bottom: 2.0em;
+}
+
+.footer-text{
+   color: #f0f0f0;
+}
+
+.full {
+  background: url(../img/inicial_canvas.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.fulldash {
+  background: url(../img/dashboard_canvas.png) no-repeat;
+  background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  /*overflow-y: hidden;
+  overflow-x: hidden;*/
+}
+
+.loginbox{
+    padding: 1.5em;
+    background-color: rgba(255,255,255,0.65);
+    -webkit-border-radius: 0.7em;
+    -moz-border-radius: 0.7em;
+    -o-border-radius: 0.7em;
+}
+
+.formbox{
+    padding: 1.5em;
+    background-color: rgba(255,255,255,0.65);
+    -webkit-border-radius: 0.7em;
+    -moz-border-radius: 0.7em;
+    -o-border-radius: 0.7em;
+    height: 28em;
+    overflow-y: auto;
+}
+
+.margin-row-top{margin-top: 4.5em;}
+.margin-row-bottom{margin-bottom: 1.5em;}
+
+.centered {
+    margin: 0 auto !important;
+    float: none !important;
+}
+
+.formdash{
+    padding: 1.5em;
+    background-color: rgba(255,255,255,0.65);
+    -webkit-border-radius: 0.7em;
+    -moz-border-radius: 0.7em;
+    -o-border-radius: 0.7em;
+    /*min-height: 30em;
+    height: 41em;
+    padding-bottom: 85%;
+    overflow-y: auto;*/
+}
+
+.row-padding{
+    padding: 1em;
+}
+
+.menulink{
+    width: 100%;
+    text-align: left;
+    padding-left: 0.7em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid rgba(0,102,102,0.20); 
+    font-weight: bold;
+}
+.menulink a:link{
+    text-decoration: none;
+    color: #204d74 !important;
+    font-weight: bold;
+}
+.menulink a:active{
+    text-decoration: none;
+    color: #204d74 !important;
+    font-weight: bold;
+}
+.menulink a:hover{
+    text-decoration: none;
+    color: #204d74 !important;
+    font-weight: bold;
+}
+.menulink:hover{
+    text-decoration: none;
+    color: #204d74 !important;
+    background-color: rgba(255,255,255,0.45);
+    font-weight: bold;
+}
+.menulink a:visited{
+    text-decoration: none;
+    color: #204d74 !important;
+    font-weight: bold;
+}
+
+.bordercont{
+    padding: 0.7em;
+    border: 1px solid #00616c !important;
+    -webkit-border-radius: 0.4em;
+    -moz-border-radius: 0.4em;
+    -o-border-radius: 0.4em;
+}
+
+.showitem{
+	padding-top: 0.6em;
+	padding-bottom: 0.6em;
+	border-top: 1px solid rgba(0,102,102,0.20);
+	border-bottom: 1px solid rgba(0,102,102,0.20);
+	background-color: rgba(255,255,255,0.45);
+}
+
+.menulink2{
+    width: 100%;
+    text-align: left;
+    padding-left: 0.7em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid rgba(0,102,102,0.20); 
+}
+.menulink2 a:link{
+    text-decoration: none;
+}
+.menulink2 a:active{
+    text-decoration: none;
+}
+.menulink2 a:hover{
+    text-decoration: none;
+}
+.menulink2:hover{
+    text-decoration: none;
+    background-color: rgba(255,255,255,0.45);
+}
+.menulink2 a:visited{
+    text-decoration: none;
+}
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/views/v_dashboard.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/views/nav_interna.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/helpers/battle_helper.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/models/Mapas_model.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/models/Cavaleiros_model.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/models/Atributos_model.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/helpers/mapsortcav_helper.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/config/routes.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/views/v_meuscavs.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/public/css/site_style.css</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/views/v_mapaslivres.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/controllers/Mapa.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/controllers/Controle.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/views/v_batalha.php</file>
+            <file>file:/C:/xampp/htdocs/projetocdz_remoto/application/models/Tecnicas_model.php</file>
+        </group>
+    </open-files>
+</project-private>
